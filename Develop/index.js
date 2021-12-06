@@ -1,4 +1,7 @@
+console.log('Hello Node');
 // TODO: Include packages needed for this application
+
+node AudioParamMap.js
 
 // TODO: Create an array of questions for user input
 const questions = [];
