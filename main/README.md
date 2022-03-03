@@ -25,5 +25,6 @@ What is your email?
 # Github:
 Username: hanandadras
 
-# Licence:
+# License:
+Licensed under the [MIT License] (LICENSE).
 
